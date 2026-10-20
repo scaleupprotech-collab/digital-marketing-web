@@ -1,0 +1,132 @@
+{
+  "clients": ["UrbanNest Realty", "MediCare Clinics", "GlowRoot", "BrightPath Academy", "FinCrest", "SpiceTrail", "Vastra Co.", "KiranaKart", "Orbit Fitness", "TrueHome Interiors", "Swift Logistics", "Nimbus Travel"],
+  "whyUs": [
+    { "icon": "award", "title": "Certified experts", "text": "Google Partner and Meta Business Partner certified specialists on every account." },
+    { "icon": "eye", "title": "Transparent reporting", "text": "Live dashboards and plain-language monthly reports. You always see where money goes." },
+    { "icon": "trending-up", "title": "ROI focus", "text": "We measure leads, sales and cost per acquisition — not likes and impressions." },
+    { "icon": "user", "title": "Dedicated account manager", "text": "One point of contact who knows your business and answers within hours." },
+    { "icon": "clock", "title": "24/7 support", "text": "Round-the-clock support desk for campaign issues and urgent requests." },
+    { "icon": "indian-rupee", "title": "Affordable plans", "text": "Plans built for Indian SMEs, with no lock-in after onboarding." }
+  ],
+  "process": [
+    ["Discover", "We learn your business, customers, competitors and goals in a deep-dive session."],
+    ["Strategy", "A clear 90-day plan with channels, budgets, KPIs and timelines."],
+    ["Execute", "Our specialists launch campaigns, content, websites and calling teams."],
+    ["Optimize", "Weekly testing and tuning based on real performance data."],
+    ["Report", "Transparent monthly reports and review calls with next steps."]
+  ],
+  "testimonials": [
+    { "name": "Rohit Malhotra", "company": "UrbanNest Realty", "role": "Sales Head", "rating": 5, "text": "ScaleNest replaced three different vendors for us. Ads, landing pages and callbacks all in one place — our site visits tripled in four months." },
+    { "name": "Kavya Iyer", "company": "GlowRoot Skincare", "role": "Founder", "rating": 5, "text": "Their Meta Ads team tests creatives faster than any agency we've worked with. We went from 1.4x to 4.2x ROAS." },
+    { "name": "Dr. Ananya Sharma", "company": "MediCare Clinics", "role": "Director", "rating": 5, "text": "All seven of our clinics now show up on Google Maps. Appointment calls have grown four times and reporting is crystal clear." },
+    { "name": "Arjun Mehta", "company": "FinCrest Loans", "role": "VP Operations", "rating": 5, "text": "Their tele-calling team handles five languages for us with quality scores above 90%. It feels like an extension of our own team." },
+    { "name": "Vikram Singh", "company": "BrightPath Academy", "role": "Founder", "rating": 4, "text": "The new website loads in under two seconds and enquiries more than doubled. Parents keep complimenting it." }
+  ],
+  "values": [
+    { "icon": "eye", "title": "Radical transparency", "text": "Clients see every rupee, every result and every recording." },
+    { "icon": "target", "title": "Outcomes over output", "text": "We judge our work by the growth it creates, not the hours it takes." },
+    { "icon": "users", "title": "People first", "text": "Happy, well-trained teams do better work — wherever they log in from." },
+    { "icon": "zap", "title": "Move fast, test faster", "text": "Small experiments, quick learning and scaling what works." },
+    { "icon": "shield", "title": "Integrity always", "text": "Honest advice, ethical marketing and zero fees for job seekers. Ever." },
+    { "icon": "book-open", "title": "Keep learning", "text": "Every team member gets a learning budget and certification support." }
+  ],
+  "milestones": [
+    ["2019", "Founded in Gurugram", "Karan Bhatia and Priya Nair start ScaleNest with two clients and a shared co-working desk."],
+    ["2020", "Remote-first pivot", "We move to a remote-first model and launch our first work-from-home tele-calling team of 12 agents."],
+    ["2021", "Google Partner status", "Certified as a Google Partner; client base crosses 100 businesses."],
+    ["2022", "Meta Business Partner", "Recognised as a Meta Business Partner; launch dedicated D2C performance team."],
+    ["2024", "200+ remote team members", "Our work-from-home team grows to 200+ across 18 states, calling in 9 languages."],
+    ["2026", "350+ clients", "New Cyber Park office, 350+ clients served and 85,000+ calls handled every month."]
+  ],
+  "team": [
+    { "name": "Karan Bhatia", "role": "Founder & CEO", "bio": "12 years in performance marketing; previously led growth at two Indian D2C brands." },
+    { "name": "Priya Nair", "role": "Co-founder & Head of SEO", "bio": "Has grown organic traffic for 120+ Indian businesses across healthcare, real estate and SaaS." },
+    { "name": "Amit Khanna", "role": "Operations Director", "bio": "Built and manages our 200+ member remote tele-calling operation." },
+    { "name": "Rahul Verma", "role": "Paid Media Lead", "bio": "Manages ₹3 crore+ in monthly Meta and Google ad spend across 60 accounts." },
+    { "name": "Sneha Gupta", "role": "Talent & Training Manager", "bio": "Has hired and trained 600+ remote team members since 2020." },
+    { "name": "Farhan Ali", "role": "Head of Web Development", "bio": "Full-stack developer who has shipped 150+ websites and Shopify stores." },
+    { "name": "Meera Joshi", "role": "Creative Director", "bio": "Leads design and video for 40+ brands, with a focus on ad creatives that convert." },
+    { "name": "Deepak Rawat", "role": "Quality & Compliance Lead", "bio": "Owns call quality, data security and DPDP compliance across all calling teams." }
+  ],
+  "certifications": [
+    { "name": "Google Partner", "text": "Certified for Search, Display and Performance Max" },
+    { "name": "Meta Business Partner", "text": "Recognised for Facebook & Instagram advertising" },
+    { "name": "Shopify Partner", "text": "Store builds, migrations and theme development" },
+    { "name": "HubSpot Solutions Partner", "text": "CRM and marketing automation setup" },
+    { "name": "ISO 27001-aligned", "text": "Information security practices for calling data" },
+    { "name": "Semrush Agency Partner", "text": "Certified SEO and content specialists" }
+  ],
+  "gallery": [
+    ["Monthly all-hands on video call", "users"],
+    ["Cyber Park office, Gurugram", "home"],
+    ["Tele-calling team training session", "headphones"],
+    ["Annual team offsite, Rishikesh", "compass"],
+    ["Creative team brainstorm", "image"],
+    ["Top performer awards night", "award"]
+  ],
+  "careerBenefits": [
+    { "icon": "home", "title": "100% remote", "text": "Work from your home, anywhere in India. No daily commute." },
+    { "icon": "clock", "title": "Flexible hours", "text": "Choose morning, afternoon or evening shifts that fit your life." },
+    { "icon": "indian-rupee", "title": "Fixed salary + incentives", "text": "A guaranteed monthly salary plus performance incentives." },
+    { "icon": "book-open", "title": "Paid training", "text": "You're paid while you learn — every new hire gets structured online training." },
+    { "icon": "gift", "title": "Performance bonuses", "text": "Monthly top-performer awards and quarterly bonuses." },
+    { "icon": "trending-up", "title": "Career growth", "text": "Clear paths from Executive to Team Lead to Manager — 60% of our leads were promoted internally." },
+    { "icon": "award", "title": "Certificates", "text": "Experience certificates and sponsored Google and Meta certifications." },
+    { "icon": "calendar", "title": "Weekly payouts", "text": "Incentives for eligible roles are paid weekly, directly to your bank account." }
+  ],
+  "employeeTestimonials": [
+    { "name": "Pooja Yadav", "role": "Senior Tele-caller", "location": "Lucknow", "since": "2021", "text": "I joined as a fresher after my B.Com. ScaleNest trained me from scratch, and I now earn more from home than my friends do in offices." },
+    { "name": "Mohammed Irfan", "role": "Team Lead, Tele-calling", "location": "Hyderabad", "since": "2020", "text": "I started as an agent during the pandemic. Three years later I lead a team of 14 — all of us working from home." },
+    { "name": "Ritika Sen", "role": "SEO Executive", "location": "Kolkata", "since": "2022", "text": "Flexible hours mean I can take care of my daughter and still build a real career in SEO. The learning budget is a big bonus." },
+    { "name": "Harpreet Kaur", "role": "Lead Generation Executive (Part-time)", "location": "Ludhiana", "since": "2023", "text": "Four hours a day, weekly payouts and a supportive team lead. It's the perfect part-time job alongside my studies." },
+    { "name": "Siddharth Rao", "role": "Meta Ads Specialist", "location": "Bengaluru", "since": "2022", "text": "I manage big-budget accounts from home and get real ownership. No micromanagement, just clear goals." }
+  ],
+  "wfhRequirements": [
+    { "icon": "laptop", "title": "Laptop / PC or smartphone", "text": "A laptop or desktop is preferred; an Android smartphone works for most calling roles." },
+    { "icon": "wifi", "title": "Stable internet", "text": "Broadband or 4G/5G with at least 5 Mbps, plus a backup hotspot." },
+    { "icon": "headphones", "title": "Headset with mic", "text": "A wired headset with a noise-cancelling microphone for calling roles." },
+    { "icon": "home", "title": "Quiet workspace", "text": "A quiet corner free from background noise during your shift." },
+    { "icon": "message-circle", "title": "Basic communication skills", "text": "Clear spoken Hindi or English (or a regional language for multilingual roles)." }
+  ],
+  "hiringProcess": [
+    ["Apply Online", "Fill in the short application form and upload your resume. Takes 3 minutes."],
+    ["Screening Call", "Our recruiter calls you within 48 hours to understand your profile."],
+    ["Online Interview / Voice Test", "A 15–20 minute video interview, or a short voice test for calling roles."],
+    ["Training", "Paid online training on our tools, scripts and processes (3–7 days)."],
+    ["Start Working", "Get your login, meet your team lead and start working from home."]
+  ],
+  "careerFaqs": [
+    ["Is it truly work from home?", "Yes. All roles marked “Work From Home” are 100% remote. You never need to visit an office. A few roles marked “Hybrid” include optional office days in Gurugram."],
+    ["What are the working hours?", "It depends on the role. Tele-calling roles offer 4, 6 or 8-hour shifts between 8 AM and 10 PM. Marketing roles generally work 10 AM – 6:30 PM, Monday to Friday."],
+    ["How is salary paid?", "Fixed salary is paid by bank transfer on the 5th of every month. Incentives for eligible roles are paid weekly. You receive a salary slip every month."],
+    ["Is training provided?", "Yes — and it's paid. Every new team member gets structured online training before starting live work, plus ongoing coaching."],
+    ["Do I need experience?", "Not for many roles. Tele-caller, lead generation and intern roles welcome freshers. Specialist roles like SEO and Meta Ads need 1–3 years of experience."],
+    ["Do I have to pay anything to join?", "Never. ScaleNest Digital does not charge any fee for applications, training, registration, ID cards or equipment. If anyone asks you to pay, it's a scam — please report it to careers@scalenestdigital.com."]
+  ],
+  "faqs": {
+    "General": [
+      ["Where is ScaleNest Digital located?", "Our head office is at 4th Floor, Tower B, Unitech Cyber Park, Sector 39, Gurugram, Haryana. Most of our team works remotely across India."],
+      ["Which businesses do you work with?", "Mostly small and mid-sized Indian businesses in real estate, education, healthcare, finance, D2C e-commerce, hospitality and professional services."],
+      ["Do you work with clients outside Gurugram?", "Yes. We serve clients across India and a growing number in the UAE, UK and USA."],
+      ["How do I get started?", "Book a free consultation. We'll review your current marketing and send a recommendation within 48 hours — no obligation."]
+    ],
+    "Services": [
+      ["Can I hire you for just one service?", "Absolutely. Many clients start with a single service like SEO or Meta Ads and add more later."],
+      ["Do you provide reports?", "Yes. Every client gets a live dashboard plus a monthly report and review call."],
+      ["Who owns the ad accounts and website?", "You do. Ad accounts, analytics, domains and websites are always set up in your name."],
+      ["Do you offer white-label services for agencies?", "Yes. We offer white-label SEO, web development and tele-calling to other agencies."]
+    ],
+    "Pricing": [
+      ["Are there setup fees?", "Some services have a one-time onboarding fee, which is shown clearly on our pricing page. There are no hidden charges."],
+      ["Is GST included in your prices?", "Prices are exclusive of 18% GST, which is added to invoices."],
+      ["Do you offer refunds?", "Please see our Refund Policy. Monthly retainers can be cancelled with 30 days' notice after the onboarding period."],
+      ["Can I get a custom plan?", "Yes. Contact us and we'll build a plan around your goals and budget."]
+    ],
+    "Careers": [
+      ["Do you really hire for work from home?", "Yes. Over 80% of our team works from home across 18 Indian states."],
+      ["Is there any joining fee?", "No. We never charge any fee for jobs, training or registration. Beware of fraudulent offers using our name."],
+      ["How long does hiring take?", "Typically 5–10 days from application to your first day of training."],
+      ["Can students apply?", "Yes. Our part-time lead generation roles and internships are designed for students."]
+    ]
+  }
+}

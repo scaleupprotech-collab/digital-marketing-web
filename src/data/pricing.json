@@ -1,0 +1,65 @@
+{
+  "yearlyDiscount": 0.15,
+  "plans": {
+    "seo": {
+      "label": "SEO",
+      "tiers": [
+        { "name": "Starter", "monthly": 14999, "desc": "For local businesses starting with SEO.", "features": ["15 target keywords", "Google Business Profile optimisation", "On-page SEO for 10 pages", "4 quality backlinks / month", "Monthly ranking report"] },
+        { "name": "Growth", "monthly": 29999, "featured": true, "desc": "For growing businesses in competitive markets.", "features": ["40 target keywords", "Technical SEO audit & fixes", "On-page SEO for 30 pages", "4 SEO blog posts / month", "10 quality backlinks / month", "Bi-weekly reporting"] },
+        { "name": "Enterprise", "monthly": 59999, "desc": "For multi-location and e-commerce brands.", "features": ["100+ target keywords", "Multi-location local SEO", "Unlimited on-page optimisation", "8 blog posts / month", "Digital PR campaigns", "Dedicated SEO manager"] }
+      ]
+    },
+    "meta-ads": {
+      "label": "Meta Ads",
+      "tiers": [
+        { "name": "Starter", "monthly": 19999, "desc": "Up to ₹1 lakh monthly ad spend.", "features": ["2 campaigns", "6 ad creatives / month", "Pixel setup", "Lead form setup", "Monthly report"] },
+        { "name": "Growth", "monthly": 34999, "featured": true, "desc": "Up to ₹5 lakh monthly ad spend.", "features": ["Full-funnel campaigns", "15 ad creatives / month", "Pixel + Conversions API", "A/B testing programme", "Retargeting", "Weekly reporting"] },
+        { "name": "Enterprise", "monthly": 64999, "desc": "₹5 lakh+ monthly ad spend.", "features": ["Unlimited campaigns", "30+ creatives incl. video", "Advanced CAPI & attribution", "Creative strategist", "Live ROAS dashboard", "Dedicated account manager"] }
+      ]
+    },
+    "digital-marketing": {
+      "label": "Digital Marketing",
+      "tiers": [
+        { "name": "Starter", "monthly": 24999, "desc": "Social + ads for small businesses.", "features": ["2 social platforms", "12 posts / month", "Google or Meta ads management", "Monthly report"] },
+        { "name": "Growth", "monthly": 49999, "featured": true, "desc": "Integrated multi-channel growth.", "features": ["3 social platforms", "20 posts + 4 reels / month", "Google + Meta ads", "Email newsletter", "Basic SEO", "Bi-weekly review calls"] },
+        { "name": "Enterprise", "monthly": 99999, "desc": "Full outsourced marketing team.", "features": ["All platforms", "Unlimited content calendar", "All paid channels", "Influencer campaigns", "Marketing automation", "Dedicated growth team"] }
+      ]
+    },
+    "website-development": {
+      "label": "Website",
+      "oneTime": true,
+      "tiers": [
+        { "name": "Starter", "monthly": 29999, "desc": "Landing page or 5-page business site.", "features": ["Up to 5 pages", "Mobile-responsive design", "Contact form + WhatsApp", "Basic on-page SEO", "30 days support"] },
+        { "name": "Growth", "monthly": 69999, "featured": true, "desc": "Full business website on WordPress.", "features": ["Up to 15 pages", "Custom design in Figma", "Blog + CMS", "Speed optimisation", "Analytics & tracking setup", "60 days support"] },
+        { "name": "Enterprise", "monthly": 149999, "desc": "E-commerce or custom web app.", "features": ["Shopify / WooCommerce store", "Up to 500 products", "Payment & shipping integration", "Custom features", "Advanced SEO setup", "90 days support"] }
+      ]
+    },
+    "tele-calling": {
+      "label": "Tele-calling",
+      "tiers": [
+        { "name": "Starter", "monthly": 18000, "desc": "Up to 3,000 calls per month.", "features": ["1 dedicated agent", "English + Hindi", "Daily call report", "Script support"] },
+        { "name": "Growth", "monthly": 49000, "featured": true, "desc": "Up to 10,000 calls per month.", "features": ["3 agents + team lead", "Up to 3 languages", "CRM integration", "Call recordings & QA scoring", "Weekly review"] },
+        { "name": "Enterprise", "monthly": 120000, "desc": "25,000+ calls per month.", "features": ["Scalable agent pool", "All 9 languages", "Live dashboard", "Dedicated quality analyst", "Custom SLAs"] }
+      ]
+    }
+  },
+  "comparison": {
+    "columns": ["Starter", "Growth", "Enterprise"],
+    "rows": [
+      ["Dedicated account manager", "Shared", "Yes", "Yes + backup"],
+      ["Reporting frequency", "Monthly", "Bi-weekly", "Weekly + live dashboard"],
+      ["Strategy review calls", "Quarterly", "Monthly", "Bi-weekly"],
+      ["Support response time", "24 hours", "8 hours", "2 hours"],
+      ["Creative / content production", "Basic", "Standard", "Unlimited"],
+      ["Custom integrations", "—", "Yes", "Yes"],
+      ["Contract", "Month-to-month*", "Month-to-month*", "Custom SLA"]
+    ]
+  },
+  "faqs": [
+    ["What does the yearly toggle do?", "Paying yearly in advance saves you 15% compared to the monthly price."],
+    ["Is ad spend included?", "No. Ad spend is paid directly to Google or Meta from your own account. Our fee covers strategy, creatives and management."],
+    ["Are prices inclusive of GST?", "All prices are exclusive of 18% GST."],
+    ["Can I switch plans later?", "Yes. You can upgrade anytime and downgrade at the end of any billing month."],
+    ["Is there a minimum commitment?", "*A 3-month onboarding period applies to monthly plans, after which they're month-to-month with 30 days' notice."]
+  ]
+}

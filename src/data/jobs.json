@@ -1,0 +1,448 @@
+[
+  {
+    "slug": "telecaller-work-from-home",
+    "title": "Tele-caller / Customer Support Executive",
+    "department": "Tele-calling",
+    "type": "Full-time",
+    "mode": "Work From Home",
+    "experience": "Fresher",
+    "experienceText": "0–2 years (freshers welcome)",
+    "salaryMin": 12000,
+    "salaryMax": 18000,
+    "incentives": "Up to ₹6,000/month in performance incentives",
+    "languages": [
+      "Hindi",
+      "English"
+    ],
+    "posted": "2026-10-10",
+    "validThrough": "2026-12-31",
+    "status": "open",
+    "openings": 25,
+    "hours": "6 hours/day, Monday – Saturday (choose a shift between 9 AM and 9 PM)",
+    "shifts": [
+      "Morning (9 AM – 3 PM)",
+      "Afternoon (12 PM – 6 PM)",
+      "Evening (3 PM – 9 PM)"
+    ],
+    "voiceNote": true,
+    "summary": "Handle inbound customer queries and make follow-up calls for our clients in education, e-commerce and healthcare — entirely from home.",
+    "responsibilities": [
+      "Answer inbound customer calls and resolve queries using the provided knowledge base",
+      "Make outbound follow-up calls for orders, appointments and feedback",
+      "Update every call outcome accurately in the CRM",
+      "Escalate complex issues to the team lead with clear notes",
+      "Meet daily call-quality and productivity targets"
+    ],
+    "requirements": [
+      "12th pass or graduate in any stream",
+      "Clear spoken Hindi; basic English",
+      "Laptop/PC or Android smartphone with a stable internet connection",
+      "Headset with microphone and a quiet place to work",
+      "Patient, polite and comfortable speaking to customers"
+    ],
+    "preferred": [
+      "Previous call center or customer support experience",
+      "Knowledge of a regional language",
+      "Basic computer and Google Sheets skills"
+    ],
+    "perks": [
+      "Fixed monthly salary + incentives",
+      "Paid 5-day online training",
+      "Monthly top-performer bonus",
+      "Experience certificate",
+      "Growth path to Team Lead"
+    ]
+  },
+  {
+    "slug": "outbound-sales-executive-work-from-home",
+    "title": "Outbound Sales Executive",
+    "department": "Tele-calling",
+    "type": "Full-time",
+    "mode": "Work From Home",
+    "experience": "Junior",
+    "experienceText": "0–3 years in sales or tele-sales",
+    "salaryMin": 15000,
+    "salaryMax": 25000,
+    "incentives": "Uncapped commission on every closed sale",
+    "languages": [
+      "Hindi",
+      "English"
+    ],
+    "posted": "2026-10-08",
+    "validThrough": "2026-12-31",
+    "status": "open",
+    "openings": 15,
+    "hours": "8 hours/day, Monday – Saturday, 10 AM – 7 PM",
+    "shifts": [
+      "Day (10 AM – 7 PM)"
+    ],
+    "voiceNote": true,
+    "summary": "Call warm leads for our real-estate, education and finance clients, pitch confidently and convert interest into sales or site visits.",
+    "responsibilities": [
+      "Call warm leads from ad campaigns and pitch client products",
+      "Handle objections and close sales or book appointments",
+      "Follow up with prospects via calls and WhatsApp",
+      "Maintain accurate lead status in the CRM",
+      "Achieve weekly conversion targets"
+    ],
+    "requirements": [
+      "Graduate or 12th pass with sales experience",
+      "Confident, persuasive communication in Hindi and English",
+      "Laptop/PC with stable broadband",
+      "Headset with microphone",
+      "Target-driven attitude"
+    ],
+    "preferred": [
+      "Real estate, EdTech or BFSI tele-sales experience",
+      "Familiarity with LeadSquared or Zoho CRM"
+    ],
+    "perks": [
+      "Fixed salary + uncapped commission",
+      "Weekly incentive payouts",
+      "Paid product training",
+      "Fast-track promotion to Sales Lead"
+    ]
+  },
+  {
+    "slug": "lead-generation-executive-work-from-home",
+    "title": "Lead Generation Executive",
+    "department": "Sales",
+    "type": "Part-time",
+    "mode": "Work From Home",
+    "experience": "Fresher",
+    "experienceText": "Freshers welcome",
+    "salaryMin": 8000,
+    "salaryMax": 12000,
+    "incentives": "₹50 bonus per qualified lead above target",
+    "languages": [
+      "Hindi",
+      "English",
+      "Punjabi"
+    ],
+    "posted": "2026-10-12",
+    "validThrough": "2026-12-15",
+    "status": "open",
+    "openings": 20,
+    "hours": "4 hours/day, flexible timing between 10 AM and 7 PM",
+    "shifts": [
+      "Flexible (any 4 hours, 10 AM – 7 PM)"
+    ],
+    "voiceNote": true,
+    "summary": "Qualify new leads by phone, ask a few simple questions and pass interested prospects to our senior sales team. Ideal for students and homemakers.",
+    "responsibilities": [
+      "Call new leads within minutes of enquiry",
+      "Ask qualifying questions about budget, need and timeline",
+      "Mark leads as hot, warm or cold in the CRM",
+      "Schedule callbacks for the senior sales team"
+    ],
+    "requirements": [
+      "Minimum 12th pass",
+      "Good spoken Hindi; basic English",
+      "Smartphone or laptop with internet",
+      "Earphones with mic",
+      "Available at least 4 hours a day"
+    ],
+    "preferred": [
+      "Punjabi or Haryanvi speakers",
+      "Prior part-time calling experience"
+    ],
+    "perks": [
+      "Flexible hours",
+      "Weekly payouts",
+      "Paid training",
+      "Certificate of experience"
+    ]
+  },
+  {
+    "slug": "seo-executive-work-from-home",
+    "title": "SEO Executive",
+    "department": "SEO",
+    "type": "Full-time",
+    "mode": "Work From Home",
+    "experience": "Mid",
+    "experienceText": "1–3 years in SEO",
+    "salaryMin": 22000,
+    "salaryMax": 35000,
+    "incentives": "Quarterly performance bonus",
+    "languages": [
+      "English",
+      "Hindi"
+    ],
+    "posted": "2026-10-05",
+    "validThrough": "2026-12-31",
+    "status": "open",
+    "openings": 3,
+    "hours": "Monday – Friday, 10 AM – 6:30 PM",
+    "shifts": [
+      "Day (10 AM – 6:30 PM)"
+    ],
+    "voiceNote": false,
+    "summary": "Own on-page, technical and local SEO for a portfolio of 6–8 client websites and report progress clearly every month.",
+    "responsibilities": [
+      "Perform keyword research and build keyword-to-page maps",
+      "Run technical audits and coordinate fixes with developers",
+      "Optimise titles, meta descriptions, headings and internal links",
+      "Manage Google Business Profiles for local clients",
+      "Run white-hat link-building outreach",
+      "Prepare monthly ranking and traffic reports"
+    ],
+    "requirements": [
+      "1–3 years of hands-on SEO experience",
+      "Working knowledge of Search Console, GA4 and Ahrefs or Semrush",
+      "Good written English",
+      "Laptop with stable internet"
+    ],
+    "preferred": [
+      "Experience with schema markup",
+      "Basic HTML and WordPress",
+      "Local SEO results you can show"
+    ],
+    "perks": [
+      "100% remote",
+      "Paid Ahrefs/Semrush access",
+      "Certification sponsorship",
+      "Quarterly bonus"
+    ]
+  },
+  {
+    "slug": "meta-ads-specialist-remote",
+    "title": "Meta Ads Specialist",
+    "department": "Meta Ads",
+    "type": "Full-time",
+    "mode": "Work From Home",
+    "experience": "Mid",
+    "experienceText": "2–4 years managing Meta ad accounts",
+    "salaryMin": 30000,
+    "salaryMax": 50000,
+    "incentives": "Performance bonus linked to client ROAS",
+    "languages": [
+      "English",
+      "Hindi"
+    ],
+    "posted": "2026-10-01",
+    "validThrough": "2026-12-31",
+    "status": "open",
+    "openings": 2,
+    "hours": "Monday – Friday, 10 AM – 6:30 PM",
+    "shifts": [
+      "Day (10 AM – 6:30 PM)"
+    ],
+    "voiceNote": false,
+    "summary": "Plan, launch and scale Facebook and Instagram campaigns for D2C and lead-gen clients with monthly spends from ₹1 lakh to ₹20 lakh.",
+    "responsibilities": [
+      "Build full-funnel campaign structures for lead-gen and e-commerce",
+      "Set up and debug Pixel and Conversions API events",
+      "Brief designers and run structured creative tests",
+      "Manage budgets, bids and scaling decisions daily",
+      "Report ROAS and CPL to clients weekly"
+    ],
+    "requirements": [
+      "2+ years managing Meta ad accounts with ₹1L+ monthly spend",
+      "Strong understanding of attribution and tracking",
+      "Analytical mindset with Excel/Sheets skills",
+      "Laptop with stable internet"
+    ],
+    "preferred": [
+      "Meta Blueprint certification",
+      "Google Ads experience",
+      "D2C e-commerce background"
+    ],
+    "perks": [
+      "Fully remote",
+      "Performance bonus",
+      "Learning budget",
+      "Work on big-budget accounts"
+    ]
+  },
+  {
+    "slug": "social-media-manager-remote",
+    "title": "Social Media Manager",
+    "department": "Digital Marketing",
+    "type": "Full-time",
+    "mode": "Work From Home",
+    "experience": "Mid",
+    "experienceText": "2–4 years",
+    "salaryMin": 25000,
+    "salaryMax": 40000,
+    "incentives": "Quarterly bonus",
+    "languages": [
+      "English",
+      "Hindi"
+    ],
+    "posted": "2026-09-28",
+    "validThrough": "2026-12-15",
+    "status": "open",
+    "openings": 2,
+    "hours": "Monday – Friday, 10 AM – 6:30 PM",
+    "shifts": [
+      "Day (10 AM – 6:30 PM)"
+    ],
+    "voiceNote": false,
+    "summary": "Lead content calendars, community management and growth for 5–6 brand accounts on Instagram, LinkedIn and YouTube.",
+    "responsibilities": [
+      "Plan monthly content calendars aligned to client goals",
+      "Write captions and brief designers and video editors",
+      "Schedule posts and manage community replies",
+      "Track growth metrics and present monthly reports",
+      "Spot trends and pitch reel ideas"
+    ],
+    "requirements": [
+      "2+ years managing brand social accounts",
+      "Excellent written English and Hindi",
+      "Hands-on with Meta Business Suite and a scheduling tool",
+      "Portfolio of accounts you have grown"
+    ],
+    "preferred": [
+      "Basic Canva or video editing",
+      "Influencer coordination experience"
+    ],
+    "perks": [
+      "Remote-first",
+      "Flexible Fridays",
+      "Creative freedom",
+      "Quarterly bonus"
+    ]
+  },
+  {
+    "slug": "content-writer-remote",
+    "title": "Content Writer",
+    "department": "Digital Marketing",
+    "type": "Freelance",
+    "mode": "Work From Home",
+    "experience": "Junior",
+    "experienceText": "1+ year of published writing",
+    "salaryMin": 15000,
+    "salaryMax": 30000,
+    "incentives": "Per-article rates for extra work",
+    "languages": [
+      "English"
+    ],
+    "posted": "2026-10-03",
+    "validThrough": "2026-12-31",
+    "status": "open",
+    "openings": 5,
+    "hours": "Flexible — deadline based",
+    "shifts": [
+      "Flexible"
+    ],
+    "voiceNote": false,
+    "summary": "Write SEO-friendly blogs, landing page copy and email newsletters for clients across real estate, education, health and D2C.",
+    "responsibilities": [
+      "Write 12–16 SEO blog posts per month from keyword briefs",
+      "Draft website and landing page copy",
+      "Write email newsletters and social captions",
+      "Edit based on SEO and client feedback"
+    ],
+    "requirements": [
+      "Strong written English with zero grammar errors",
+      "Understanding of SEO writing basics",
+      "Laptop and reliable internet",
+      "Writing samples (links or documents)"
+    ],
+    "preferred": [
+      "Hindi content writing",
+      "Experience with Surfer SEO"
+    ],
+    "perks": [
+      "Work from anywhere",
+      "Monthly retainer + per-article extras",
+      "Byline credit on select pieces"
+    ]
+  },
+  {
+    "slug": "graphic-designer-remote",
+    "title": "Graphic Designer",
+    "department": "Design",
+    "type": "Full-time",
+    "mode": "Hybrid",
+    "experience": "Junior",
+    "experienceText": "1–3 years",
+    "salaryMin": 20000,
+    "salaryMax": 32000,
+    "incentives": "Annual performance bonus",
+    "languages": [
+      "English",
+      "Hindi"
+    ],
+    "posted": "2026-09-25",
+    "validThrough": "2026-12-15",
+    "status": "open",
+    "openings": 2,
+    "hours": "Monday – Friday, 10 AM – 6:30 PM (2 office days/month in Gurugram optional)",
+    "shifts": [
+      "Day (10 AM – 6:30 PM)"
+    ],
+    "voiceNote": false,
+    "summary": "Design ad creatives, social posts, carousels and landing page visuals that perform — not just look good.",
+    "responsibilities": [
+      "Design static and carousel ads for Meta and Google",
+      "Create social media posts and story templates",
+      "Design website and landing page sections in Figma",
+      "Adapt designs based on ad performance data"
+    ],
+    "requirements": [
+      "1–3 years of design experience",
+      "Strong Figma, Photoshop and Illustrator skills",
+      "A portfolio of ad or social creatives",
+      "Laptop capable of running design tools"
+    ],
+    "preferred": [
+      "Motion graphics in After Effects",
+      "Basic video editing"
+    ],
+    "perks": [
+      "Hybrid flexibility",
+      "Adobe licence provided",
+      "Annual bonus",
+      "Design learning budget"
+    ]
+  },
+  {
+    "slug": "digital-marketing-intern-remote",
+    "title": "Digital Marketing Intern",
+    "department": "Digital Marketing",
+    "type": "Internship",
+    "mode": "Work From Home",
+    "experience": "Fresher",
+    "experienceText": "Students & fresh graduates",
+    "salaryMin": 7000,
+    "salaryMax": 10000,
+    "incentives": "Pre-placement offer for top performers",
+    "languages": [
+      "English",
+      "Hindi"
+    ],
+    "posted": "2026-10-14",
+    "validThrough": "2026-11-30",
+    "status": "open",
+    "openings": 6,
+    "hours": "Monday – Friday, 5 hours/day (flexible)",
+    "shifts": [
+      "Flexible"
+    ],
+    "voiceNote": false,
+    "summary": "A 3-month paid internship rotating through SEO, social media and Meta Ads — with real client work and mentorship.",
+    "responsibilities": [
+      "Assist with keyword research and content optimisation",
+      "Help schedule social posts and track engagement",
+      "Support ad campaign setup and reporting",
+      "Research competitors and industry trends"
+    ],
+    "requirements": [
+      "Student or graduate (any stream)",
+      "Strong interest in digital marketing",
+      "Good written English",
+      "Laptop with internet"
+    ],
+    "preferred": [
+      "Google Digital Garage or similar certificate",
+      "Your own blog or social page"
+    ],
+    "perks": [
+      "Monthly stipend",
+      "Internship certificate",
+      "Letter of recommendation",
+      "Pre-placement offer opportunity"
+    ]
+  }
+]

@@ -1,0 +1,55 @@
+{
+  "name": "ScaleNest Digital",
+  "shortName": "ScaleNest",
+  "url": "https://www.scalenestdigital.com",
+  "tagline": "Data-driven digital marketing, SEO, Meta Ads, web development and tele-calling for growing businesses.",
+  "description": "ScaleNest Digital is a Gurugram-based digital agency offering SEO, Meta Ads, digital marketing, website development and tele-calling services — plus work-from-home careers across India.",
+  "founded": "2019",
+  "phone": "+91 98100 45678",
+  "phoneHref": "+919810045678",
+  "email": "hello@scalenestdigital.com",
+  "careersEmail": "careers@scalenestdigital.com",
+  "whatsapp": "919810045678",
+  "whatsappMessage": "Hi ScaleNest Digital, I'd like to know more about your services.",
+  "address": {
+    "street": "4th Floor, Tower B, Unitech Cyber Park, Sector 39",
+    "city": "Gurugram",
+    "region": "Haryana",
+    "postalCode": "122002",
+    "country": "IN",
+    "countryName": "India",
+    "lat": 28.4421,
+    "lng": 77.0469
+  },
+  "hours": {
+    "display": "Mon – Sat: 9:30 AM – 7:00 PM",
+    "support": "Tele-calling floor: 8:00 AM – 10:00 PM, 7 days",
+    "rows": [
+      ["Monday – Friday", "9:30 AM – 7:00 PM"],
+      ["Saturday", "10:00 AM – 4:00 PM"],
+      ["Sunday", "Closed (support desk open)"]
+    ]
+  },
+  "social": {
+    "facebook": "https://www.facebook.com/scalenestdigital",
+    "instagram": "https://www.instagram.com/scalenestdigital",
+    "linkedin": "https://www.linkedin.com/company/scalenestdigital",
+    "youtube": "https://www.youtube.com/@scalenestdigital",
+    "x": "https://x.com/scalenestdigital"
+  },
+  "tracking": {
+    "gtm": "GTM-XXXXXXX",
+    "ga4": "G-XXXXXXXXXX",
+    "metaPixel": "000000000000000"
+  },
+  "newsletter": {
+    "provider": "mailchimp",
+    "note": "Set MAILCHIMP_API_KEY and MAILCHIMP_LIST_ID env vars on the server to sync subscribers."
+  },
+  "stats": [
+    { "value": 350, "suffix": "+", "label": "Clients served" },
+    { "value": 1200, "suffix": "+", "label": "Campaigns run" },
+    { "value": 85000, "suffix": "+", "label": "Calls handled / month" },
+    { "value": 212, "suffix": "%", "label": "Average ROI increase" }
+  ]
+}

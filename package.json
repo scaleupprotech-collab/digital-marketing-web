@@ -1,0 +1,18 @@
+{
+  "name": "scalenest-digital-website",
+  "version": "1.0.0",
+  "description": "ScaleNest Digital agency website — static site + Netlify Functions + MongoDB Atlas.",
+  "private": true,
+  "scripts": {
+    "build": "node build.js",
+    "dev": "npx netlify-cli@27 dev",
+    "deploy": "npx netlify-cli@27 deploy --build --prod"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "mongodb": "^7.7.0",
+    "nodemailer": "^10.1.2"
+  }
+}

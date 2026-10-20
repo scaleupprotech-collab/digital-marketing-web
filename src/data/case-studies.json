@@ -1,0 +1,122 @@
+[
+  {
+    "slug": "urbannest-realty",
+    "client": "UrbanNest Realty",
+    "industry": "Real Estate",
+    "service": "Digital Marketing",
+    "serviceSlug": "digital-marketing",
+    "location": "Gurugram",
+    "duration": "6 months",
+    "summary": "Integrated Google, Meta and tele-calling funnel that tripled qualified site visits for a Gurugram residential project.",
+    "challenge": "UrbanNest was spending ₹6 lakh/month on property portals but getting low-quality leads, and their in-house team took over 24 hours to call back.",
+    "solution": "We moved budget to Google Search and Meta lead forms with qualifying questions, launched a project landing page, and connected every lead to our tele-calling team for a 5-minute callback.",
+    "results": [
+      { "label": "Qualified site visits", "before": "42/mo", "after": "138/mo" },
+      { "label": "Cost per lead", "before": "₹1,850", "after": "₹640" },
+      { "label": "Lead callback time", "before": "24 hrs", "after": "5 min" }
+    ],
+    "highlight": "3.3x site visits",
+    "quote": "ScaleNest replaced three vendors and our site visits tripled in four months.",
+    "quoteBy": "Rohit Malhotra, Sales Head"
+  },
+  {
+    "slug": "medicare-clinics",
+    "client": "MediCare Clinics",
+    "industry": "Healthcare",
+    "service": "SEO",
+    "serviceSlug": "seo",
+    "location": "Delhi NCR",
+    "duration": "9 months",
+    "summary": "Local SEO across 7 clinic locations that made MediCare the top map-pack result for 40+ treatment searches.",
+    "challenge": "A 7-location clinic chain was invisible on Google Maps and relied on expensive aggregator platforms for patient bookings.",
+    "solution": "We optimised all seven Google Business Profiles, built location and treatment pages, fixed site speed issues and ran a review-generation programme.",
+    "results": [
+      { "label": "Organic traffic", "before": "3,200/mo", "after": "14,900/mo" },
+      { "label": "Map-pack top-3 keywords", "before": "6", "after": "47" },
+      { "label": "Appointment calls from Google", "before": "180/mo", "after": "720/mo" }
+    ],
+    "highlight": "4x Google calls",
+    "quote": "Patients now find us on Google first. Our aggregator spend is down by half.",
+    "quoteBy": "Dr. Ananya Sharma, Director"
+  },
+  {
+    "slug": "glowroot-skincare",
+    "client": "GlowRoot Skincare",
+    "industry": "D2C E-commerce",
+    "service": "Meta Ads",
+    "serviceSlug": "meta-ads",
+    "location": "Pan-India",
+    "duration": "5 months",
+    "summary": "Creative-led Meta Ads strategy and Conversions API setup that scaled a D2C skincare brand profitably.",
+    "challenge": "GlowRoot's ROAS had dropped below 1.5 after iOS tracking changes, and they couldn't scale spend without losing money.",
+    "solution": "We implemented the Conversions API, rebuilt the account into a simple testing-and-scaling structure, and produced 40+ UGC-style creatives per month.",
+    "results": [
+      { "label": "ROAS", "before": "1.4x", "after": "4.2x" },
+      { "label": "Monthly revenue from Meta", "before": "₹6.5L", "after": "₹31L" },
+      { "label": "Cost per purchase", "before": "₹780", "after": "₹310" }
+    ],
+    "highlight": "4.2x ROAS",
+    "quote": "They test faster than any agency we've worked with. Our revenue from Meta is nearly 5x.",
+    "quoteBy": "Kavya Iyer, Founder"
+  },
+  {
+    "slug": "brightpath-academy",
+    "client": "BrightPath Academy",
+    "industry": "Education",
+    "service": "Website",
+    "serviceSlug": "website-development",
+    "location": "Jaipur",
+    "duration": "7 weeks",
+    "summary": "A fast, conversion-focused website redesign that doubled admission enquiries for a coaching institute.",
+    "challenge": "BrightPath's old website took 9 seconds to load on mobile, had no clear enquiry path and wasn't ranking for course searches.",
+    "solution": "We redesigned the site on WordPress with course landing pages, sticky enquiry CTAs, WhatsApp integration and Core Web Vitals optimisation.",
+    "results": [
+      { "label": "Mobile load time", "before": "9.1s", "after": "1.6s" },
+      { "label": "Enquiry conversion rate", "before": "1.1%", "after": "4.3%" },
+      { "label": "Admission enquiries", "before": "210/mo", "after": "486/mo" }
+    ],
+    "highlight": "2.3x enquiries",
+    "quote": "Parents tell us the new website is the reason they called.",
+    "quoteBy": "Vikram Singh, Founder"
+  },
+  {
+    "slug": "fincrest-loans",
+    "client": "FinCrest Loans",
+    "industry": "Finance",
+    "service": "Tele-calling",
+    "serviceSlug": "tele-calling",
+    "location": "Pan-India",
+    "duration": "Ongoing (12 months)",
+    "summary": "A 20-agent multilingual tele-calling team that qualifies personal loan leads in five languages.",
+    "challenge": "FinCrest was generating 30,000 loan leads a month but their in-house team could only call 40% of them, and conversion was falling.",
+    "solution": "We deployed 20 trained agents across Hindi, English, Tamil, Telugu and Bengali, with a qualification script, CRM integration and weekly QA reviews.",
+    "results": [
+      { "label": "Leads contacted", "before": "40%", "after": "96%" },
+      { "label": "Lead-to-application rate", "before": "6%", "after": "14%" },
+      { "label": "Avg. first-call time", "before": "6 hrs", "after": "8 min" }
+    ],
+    "highlight": "2.3x applications",
+    "quote": "The ScaleNest team feels like our own. Quality scores are consistently above 90%.",
+    "quoteBy": "Arjun Mehta, VP Operations"
+  },
+  {
+    "slug": "spicetrail-restaurants",
+    "client": "SpiceTrail Restaurants",
+    "industry": "Food & Beverage",
+    "service": "Digital Marketing",
+    "serviceSlug": "digital-marketing",
+    "location": "Gurugram & Noida",
+    "duration": "4 months",
+    "summary": "Social media, influencer collaborations and local ads that filled weekday tables across four restaurant outlets.",
+    "challenge": "SpiceTrail's weekend tables were full but weekday occupancy sat at 35%, and their Instagram had stalled at 4,000 followers.",
+    "solution": "We launched a reels-first content plan, 18 micro-influencer collaborations, and geo-targeted weekday offers on Meta and Google.",
+    "results": [
+      { "label": "Weekday occupancy", "before": "35%", "after": "71%" },
+      { "label": "Instagram followers", "before": "4,000", "after": "27,500" },
+      { "label": "Online table bookings", "before": "320/mo", "after": "1,140/mo" }
+    ],
+    "highlight": "2x weekday covers",
+    "quote": "Our weekday evenings finally feel like weekends.",
+    "quoteBy": "Neha Kapoor, Marketing Manager"
+  }
+]

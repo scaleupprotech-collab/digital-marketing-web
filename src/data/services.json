@@ -1,0 +1,227 @@
+[
+  {
+    "slug": "digital-marketing",
+    "name": "Digital Marketing",
+    "icon": "megaphone",
+    "short": "Full-funnel campaigns across social, search, email and content that turn attention into revenue.",
+    "headline": "Marketing that compounds, month after month",
+    "sub": "One strategy, every channel. We plan, run and report on integrated campaigns so your brand shows up wherever your customers spend time.",
+    "metaTitle": "Digital Marketing Agency in Gurugram | ScaleNest Digital",
+    "metaDescription": "Social media management, content, email, influencer marketing and Google Ads from a results-driven digital marketing agency in Gurugram.",
+    "bestFor": "Brands that want one partner to own growth across every channel.",
+    "features": [
+      { "icon": "users", "title": "Social media management", "text": "Content calendars, posting, community replies and monthly growth reports for Instagram, Facebook, LinkedIn and YouTube." },
+      { "icon": "file-text", "title": "Content marketing", "text": "Blogs, guides, reels scripts and lead magnets written around what your buyers actually search for." },
+      { "icon": "mail", "title": "Email marketing", "text": "Welcome flows, newsletters and win-back sequences built in Mailchimp, Klaviyo or Zoho." },
+      { "icon": "heart", "title": "Influencer marketing", "text": "Creator shortlisting, negotiation, briefs and tracked links so every collaboration is measurable." },
+      { "icon": "target", "title": "Google Ads", "text": "Search, Performance Max, YouTube and Display campaigns tuned for cost-per-lead, not vanity clicks." },
+      { "icon": "bar-chart", "title": "Analytics & reporting", "text": "GA4, Looker Studio dashboards and a monthly review call that explains what moved and why." }
+    ],
+    "benefits": [
+      "One coordinated strategy instead of five disconnected vendors",
+      "Lower blended cost per lead through channel cross-learning",
+      "Consistent brand voice across every platform",
+      "Clear monthly reporting tied to revenue, not likes"
+    ],
+    "process": [
+      ["Audit", "We review your current channels, competitors and analytics setup."],
+      ["Plan", "A 90-day channel plan with budgets, KPIs and content themes."],
+      ["Launch", "Campaigns, content and automations go live within two weeks."],
+      ["Optimise", "Weekly tweaks to creatives, bids and audiences based on data."],
+      ["Report", "Monthly dashboard and review call with next-month priorities."]
+    ],
+    "tools": ["Google Ads", "GA4", "Looker Studio", "Meta Business Suite", "Mailchimp", "Klaviyo", "Canva", "Hootsuite", "HubSpot"],
+    "caseStudy": "urbannest-realty",
+    "pricingFrom": "₹24,999/month",
+    "faqs": [
+      ["How soon will I see results?", "Paid channels typically generate leads in the first 2–3 weeks. Organic channels like content and social build steadily over 3–6 months."],
+      ["Do I need to sign a long contract?", "No. Plans are month-to-month after an initial 3-month onboarding period, because good marketing needs a little time to learn."],
+      ["Is ad spend included in the fee?", "No. Ad spend is paid directly to Google or Meta from your account, so you keep full ownership and transparency."],
+      ["Who will manage my account?", "A dedicated account manager supported by specialists for content, design, ads and analytics."]
+    ]
+  },
+  {
+    "slug": "seo",
+    "name": "Search Engine Optimization",
+    "navName": "SEO",
+    "icon": "search",
+    "short": "Rank higher on Google with technical fixes, high-intent content and authority-building links.",
+    "headline": "Get found by customers who are already searching",
+    "sub": "Technical, on-page, off-page and local SEO that grows qualified organic traffic — with monthly ranking reports you can actually understand.",
+    "metaTitle": "SEO Services in Gurugram | Local & Technical SEO | ScaleNest Digital",
+    "metaDescription": "Technical SEO, on-page optimisation, link building, local SEO and Google Business Profile management with transparent monthly ranking reports.",
+    "bestFor": "Businesses that want long-term, compounding traffic without paying for every click.",
+    "features": [
+      { "icon": "tool", "title": "Technical SEO", "text": "Site speed, Core Web Vitals, crawlability, indexation, schema markup and fixing what search engines trip over." },
+      { "icon": "file-text", "title": "On-page SEO", "text": "Titles, headings, internal links and content optimisation for every priority page." },
+      { "icon": "link", "title": "Off-page & link building", "text": "White-hat outreach, digital PR and niche-relevant guest posts — no spammy link farms." },
+      { "icon": "map-pin", "title": "Local SEO & Google Business Profile", "text": "Profile optimisation, reviews strategy, local citations and map-pack visibility." },
+      { "icon": "compass", "title": "Keyword research", "text": "Intent-mapped keyword clusters prioritised by search volume, difficulty and buying intent." },
+      { "icon": "clipboard", "title": "SEO audits", "text": "A 100-point audit with a prioritised fix list your developers can action straight away." },
+      { "icon": "trending-up", "title": "Monthly ranking reports", "text": "Keyword positions, traffic, conversions and the work done — in plain language." }
+    ],
+    "benefits": [
+      "Traffic that keeps coming without paying per click",
+      "Higher trust — buyers click organic results more often",
+      "More calls and direction requests from Google Maps",
+      "A faster, healthier website that converts better"
+    ],
+    "process": [
+      ["Audit", "Full technical, content and backlink audit with competitor gap analysis."],
+      ["Keyword map", "Assign target keywords to pages and plan new content."],
+      ["Fix & optimise", "Technical fixes and on-page improvements, highest impact first."],
+      ["Build authority", "Monthly content and link-building campaigns."],
+      ["Report", "Monthly ranking, traffic and conversion report with next steps."]
+    ],
+    "tools": ["Google Search Console", "GA4", "Ahrefs", "Semrush", "Screaming Frog", "PageSpeed Insights", "Surfer SEO", "BrightLocal"],
+    "caseStudy": "medicare-clinics",
+    "pricingFrom": "₹14,999/month",
+    "faqs": [
+      ["How long does SEO take to work?", "Most clients see meaningful ranking movement in 3–4 months and significant traffic growth by month 6. Competitive industries can take longer."],
+      ["Do you guarantee first-page rankings?", "No honest agency can guarantee rankings, because Google controls them. We guarantee the work, the transparency and a clear plan."],
+      ["Will you need access to my website?", "Yes — usually CMS access plus Google Search Console and Analytics. We can also work through your developer."],
+      ["Do you do local SEO for multiple locations?", "Yes. We manage Google Business Profiles and local pages for multi-location brands across India."]
+    ]
+  },
+  {
+    "slug": "meta-ads",
+    "name": "Meta Ads",
+    "icon": "target",
+    "short": "Facebook & Instagram ads with sharp targeting, scroll-stopping creatives and tracked ROAS.",
+    "headline": "Facebook & Instagram ads that pay for themselves",
+    "sub": "From Pixel setup to winning creatives, we build Meta ad campaigns that generate leads and sales at a cost your business can scale.",
+    "metaTitle": "Meta Ads Agency | Facebook & Instagram Advertising | ScaleNest Digital",
+    "metaDescription": "Facebook and Instagram ad campaigns, audience targeting, creative design, A/B testing, retargeting, Pixel & Conversions API setup and ROAS tracking.",
+    "bestFor": "D2C brands, local businesses and lead-gen companies that need predictable leads or sales fast.",
+    "features": [
+      { "icon": "smartphone", "title": "Facebook & Instagram campaigns", "text": "Feed, Stories, Reels and Messenger placements structured for your goal — leads, sales or app installs." },
+      { "icon": "users", "title": "Audience targeting", "text": "Interest, lookalike and custom audiences built from your CRM, website and engagement data." },
+      { "icon": "image", "title": "Creative design", "text": "Static, carousel and short-form video ads designed and written by our in-house creative team." },
+      { "icon": "sliders", "title": "A/B testing", "text": "Structured tests on hooks, offers, creatives and audiences — scaling only what wins." },
+      { "icon": "repeat", "title": "Retargeting", "text": "Bring back website visitors, cart abandoners and video viewers with sequenced messaging." },
+      { "icon": "clipboard", "title": "Lead-generation campaigns", "text": "Instant forms with qualifying questions, synced to your CRM or our tele-calling team in minutes." },
+      { "icon": "code", "title": "Pixel & Conversions API setup", "text": "Accurate server-side tracking so Meta's algorithm optimises on real conversions." },
+      { "icon": "trending-up", "title": "ROAS tracking", "text": "Live dashboards showing spend, revenue and return on ad spend by campaign." }
+    ],
+    "benefits": [
+      "Leads and sales starting within days, not months",
+      "Reach exact customer segments by location, interest and behaviour",
+      "Creative testing that keeps cost per result falling",
+      "Clear ROAS reporting so every rupee is accountable"
+    ],
+    "process": [
+      ["Tracking setup", "Pixel, Conversions API and event mapping verified before spend."],
+      ["Strategy", "Offer, audience and funnel plan with budget allocation."],
+      ["Creative", "First batch of 6–10 ad creatives designed and approved."],
+      ["Test & scale", "Weekly A/B tests; budgets move to winning ad sets."],
+      ["Report", "Weekly snapshot and monthly ROAS review."]
+    ],
+    "tools": ["Meta Ads Manager", "Meta Business Suite", "Conversions API", "Google Tag Manager", "Canva", "Adobe Premiere", "Looker Studio", "Zapier"],
+    "caseStudy": "glowroot-skincare",
+    "pricingFrom": "₹19,999/month",
+    "faqs": [
+      ["What ad budget do I need?", "We recommend at least ₹30,000/month in ad spend for lead generation and ₹50,000+ for e-commerce, so the algorithm has enough data to optimise."],
+      ["Do you create the ad creatives?", "Yes. Static, carousel and video creatives are included in every plan. You approve everything before it goes live."],
+      ["Can leads go straight to my sales team?", "Yes. We connect Meta lead forms to your CRM, Google Sheets, WhatsApp or our tele-calling team for instant follow-up."],
+      ["What is the Conversions API?", "It sends conversion data from your server to Meta, so tracking stays accurate even when browsers block cookies."]
+    ]
+  },
+  {
+    "slug": "website-development",
+    "name": "Website Development",
+    "navName": "Website Development",
+    "icon": "monitor",
+    "short": "Fast, mobile-first websites, landing pages and e-commerce stores designed to convert.",
+    "headline": "Websites that load fast and turn visitors into customers",
+    "sub": "Business websites, Shopify and WordPress stores, and landing pages — designed around conversion, built for speed and easy for your team to update.",
+    "metaTitle": "Website Design & Development Company in Gurugram | ScaleNest Digital",
+    "metaDescription": "Business websites, e-commerce stores, landing pages, WordPress and Shopify development, redesigns, speed optimisation and maintenance.",
+    "bestFor": "Businesses whose website is outdated, slow, or not generating enquiries.",
+    "features": [
+      { "icon": "briefcase", "title": "Business websites", "text": "Professional multi-page sites with clear messaging, strong calls to action and lead capture." },
+      { "icon": "shopping-cart", "title": "E-commerce stores", "text": "Shopify and WooCommerce stores with payment gateways, shipping and inventory set up." },
+      { "icon": "zap", "title": "Landing pages", "text": "High-converting campaign pages built to pair with your Google and Meta ads." },
+      { "icon": "layers", "title": "WordPress & Shopify", "text": "Custom themes your team can edit easily — no developer needed for everyday changes." },
+      { "icon": "refresh-cw", "title": "Redesigns", "text": "Modernise an outdated site without losing the SEO rankings you've already earned." },
+      { "icon": "activity", "title": "Speed optimisation", "text": "Core Web Vitals fixes, image compression and caching for sub-2-second loads." },
+      { "icon": "shield", "title": "Maintenance", "text": "Updates, backups, security monitoring and small content changes every month." }
+    ],
+    "benefits": [
+      "A site that builds trust in the first five seconds",
+      "More enquiries from the same amount of traffic",
+      "SEO-ready structure from day one",
+      "Easy self-editing with training included"
+    ],
+    "process": [
+      ["Discovery", "Goals, audience, sitemap and competitor review."],
+      ["Design", "Wireframes and visual design in Figma, with two revision rounds."],
+      ["Build", "Responsive development, CMS setup and integrations."],
+      ["Test & launch", "Speed, SEO and cross-device QA, then go-live."],
+      ["Support", "Training session and 30 days of free post-launch support."]
+    ],
+    "tools": ["WordPress", "Shopify", "WooCommerce", "Figma", "Next.js", "Tailwind CSS", "Cloudflare", "Razorpay"],
+    "caseStudy": "brightpath-academy",
+    "pricingFrom": "₹29,999 one-time",
+    "faqs": [
+      ["How long does a website take?", "Landing pages take 5–7 days, business websites 3–4 weeks and e-commerce stores 4–8 weeks depending on product count and features."],
+      ["Will I be able to update the website myself?", "Yes. We build on WordPress or Shopify by default and include a recorded training session."],
+      ["Do you provide hosting and domain?", "We can set them up in your name, or work with your existing provider. You always own your domain and site."],
+      ["Do you redesign existing websites?", "Yes, with proper 301 redirects and SEO migration so you don't lose existing rankings."]
+    ]
+  },
+  {
+    "slug": "tele-calling",
+    "name": "Tele-calling Services",
+    "navName": "Tele-calling",
+    "icon": "headphones",
+    "short": "Trained outbound and inbound calling teams for sales, lead qualification and customer support.",
+    "headline": "A trained calling team, without building one",
+    "sub": "Outbound sales, lead qualification, inbound support and appointment setting — handled by our trained, quality-monitored tele-calling team in English, Hindi and regional languages.",
+    "metaTitle": "Tele-calling & Call Center Services in Gurugram | ScaleNest Digital",
+    "metaDescription": "Outsourced outbound and inbound tele-calling: sales calls, lead qualification, customer support, appointment setting, surveys and multilingual calling.",
+    "bestFor": "Businesses with lots of leads and not enough people to call them quickly.",
+    "features": [
+      { "icon": "phone-outgoing", "title": "Outbound sales calls", "text": "Scripted, trained agents who pitch, handle objections and close or hand over hot leads." },
+      { "icon": "filter", "title": "Lead generation & qualification", "text": "Call every inbound lead within minutes and qualify by budget, need and timeline." },
+      { "icon": "phone-incoming", "title": "Inbound customer support", "text": "Dedicated support lines for queries, orders, complaints and service requests." },
+      { "icon": "calendar", "title": "Appointment setting", "text": "Book site visits, demos, consultations and counselling sessions straight into your calendar." },
+      { "icon": "message-circle", "title": "Customer surveys & feedback", "text": "NPS, CSAT and post-purchase surveys with structured reports." },
+      { "icon": "bell", "title": "Payment & follow-up reminders", "text": "Polite, compliant reminder calls for EMIs, renewals, fees and pending payments." },
+      { "icon": "globe", "title": "Multilingual calling", "text": "English, Hindi, Punjabi, Bengali, Tamil, Telugu, Marathi, Gujarati and Kannada." }
+    ],
+    "industries": [
+      { "icon": "home", "name": "Real estate", "text": "Site-visit booking, project launches and investor follow-ups." },
+      { "icon": "book-open", "name": "Education", "text": "Admission counselling, course enquiries and fee reminders." },
+      { "icon": "pie-chart", "name": "Finance", "text": "Loan and insurance lead qualification and renewal calls." },
+      { "icon": "heart", "name": "Healthcare", "text": "Appointment booking, reminders and patient feedback." },
+      { "icon": "shopping-cart", "name": "E-commerce", "text": "COD confirmation, abandoned carts and order support." }
+    ],
+    "packages": [
+      { "name": "Starter", "calls": "Up to 3,000 calls / month", "price": "₹18,000", "features": ["1 dedicated agent", "English + Hindi", "Daily call report", "Basic script support"] },
+      { "name": "Growth", "calls": "Up to 10,000 calls / month", "price": "₹49,000", "featured": true, "features": ["3 dedicated agents + team lead", "Up to 3 languages", "CRM integration", "Call recordings & QA scoring"] },
+      { "name": "Enterprise", "calls": "25,000+ calls / month", "price": "Custom", "features": ["Scalable agent pool", "All supported languages", "Live dashboard & weekly reviews", "Dedicated quality analyst"] }
+    ],
+    "benefits": [
+      "Every lead called within 5 minutes — while interest is high",
+      "No hiring, training or attrition headaches",
+      "Scale agents up or down month to month",
+      "Call recordings and QA scores for full transparency"
+    ],
+    "process": [
+      ["Brief", "Understand your product, customers and call objectives."],
+      ["Script & train", "Scripts and objection handling written; agents trained and tested."],
+      ["Pilot", "A 7-day pilot with daily reports and script refinements."],
+      ["Scale", "Full rollout with QA monitoring on every agent."],
+      ["Report", "Daily dispositions, weekly reviews and monthly performance reports."]
+    ],
+    "tools": ["Exotel", "Knowlarity", "Zoho CRM", "Salesforce", "LeadSquared", "Freshdesk", "Google Sheets", "WhatsApp Business"],
+    "caseStudy": "fincrest-loans",
+    "pricingFrom": "₹18,000/month",
+    "faqs": [
+      ["How quickly can you start?", "Most campaigns go live within 5–7 working days, including script writing and agent training."],
+      ["Are calls recorded?", "Yes. All calls are recorded and a sample is scored by our quality team every week. You get access to recordings on request."],
+      ["How do you keep our customer data safe?", "Agents sign NDAs, data stays in access-controlled CRMs, and we never allow downloads to personal devices. We follow DPDP Act 2023 guidelines."],
+      ["Do you follow DND and TRAI rules?", "Yes. We scrub lists against DND where required and only call during permitted hours."]
+    ]
+  }
+]
