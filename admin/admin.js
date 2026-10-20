@@ -376,14 +376,19 @@
     document.querySelector('nav.tabs').hidden = true;
     app.innerHTML = `<form class="editor" id="login" style="max-width:380px;margin:60px auto">
       <h2 style="margin-top:0">Admin sign in</h2>
-      ${err && err !== 'Wrong password' ? `<p style="color:var(--bad)">${esc(err)}</p>` : ''}
-      <label>Password <input type="password" name="pw" autocomplete="current-password" required autofocus></label>
-      ${err === 'Wrong password' ? '<p style="color:var(--bad)">Wrong password, try again.</p>' : ''}
+      ${err ? `<p style="color:var(--bad)">${esc(err)}</p>` : ''}
+      <label class="full">Email <input type="email" name="email" autocomplete="username" required autofocus></label>
+      <label class="full">Password <input type="password" name="pw" autocomplete="current-password" required></label>
       <p><button class="btn btn-primary" type="submit">Sign in</button></p></form>`;
     document.getElementById('login').onsubmit = async (e) => {
       e.preventDefault();
-      auth.set(e.target.pw.value);
-      try { await api('/login'); start(); } catch (x) { /* renderLogin already shown */ }
+      const btn = e.target.querySelector('button'); btn.disabled = true; btn.textContent = 'Signing in…';
+      try {
+        const r = await fetch('/api/admin/login', { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify({ email: e.target.email.value.trim(), password: e.target.pw.value }) });
+        const d = await r.json().catch(() => ({}));
+        if (r.ok && d.token) { auth.set(d.token); start(); return; }
+        renderLogin(d.error || 'Wrong email or password.');
+      } catch (x) { renderLogin('Could not reach the server — please try again.'); }
     };
   }
   function start() {

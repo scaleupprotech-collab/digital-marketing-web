@@ -1,5 +1,5 @@
 // /api/admin/* — password-protected API for the admin dashboard (submissions inbox + CMS), backed by MongoDB.
-import { getDb, getCollection, saveItem, deleteItem, readFile, deleteFile, COLLECTIONS, isAdmin, triggerRebuild, json, serverError } from '../lib/shared.mjs';
+import { getDb, getCollection, saveItem, deleteItem, readFile, deleteFile, COLLECTIONS, isAdmin, verifyPassword, signToken, triggerRebuild, json, serverError } from '../lib/shared.mjs';
 
 export const config = { path: ['/api/admin', '/api/admin/*'] };
 
@@ -22,9 +22,31 @@ function submissionFilter(params) {
 }
 
 export default async (req) => {
+  const resource = new URL(req.url).pathname.split('/').filter(Boolean)[2]; // /api/admin/<resource>
+  // Email + password login is open (it IS the auth step); everything else needs a valid admin token.
+  if (resource === 'login' && req.method === 'POST') {
+    try { return await adminLogin(req); } catch (e) { return serverError(e, { admin: true }); }
+  }
   if (!isAdmin(req)) return json(401, { ok: false, error: process.env.ADMIN_PASSWORD ? 'Wrong password' : 'ADMIN_PASSWORD is not set in Netlify environment variables' });
   try { return await handle(req); } catch (e) { return serverError(e, { admin: true }); }
 };
+
+// Verify email + password against the admin_users collection and return a 12-hour session token.
+// The env ADMIN_PASSWORD also works (with any email) as a master/bootstrap credential.
+async function adminLogin(req) {
+  const body = await req.json().catch(() => ({}));
+  const email = String(body.email || '').trim().toLowerCase();
+  const password = String(body.password || '');
+  if (!email || !password) return json(422, { ok: false, error: 'Enter your email and password.' });
+  const db = await getDb();
+  const admin = await db.collection('admin_users').findOne({ email });
+  const ok = admin ? verifyPassword(password, admin.auth)
+    : (!!process.env.ADMIN_PASSWORD && password === process.env.ADMIN_PASSWORD);
+  if (!ok) return json(401, { ok: false, error: 'Wrong email or password.' });
+  const token = signToken({ admin: true, email }, 12 * 60 * 60 * 1000);
+  if (!token) return json(503, { ok: false, error: 'Login unavailable — set ADMIN_PASSWORD or SESSION_SECRET in the environment.' });
+  return json(200, { ok: true, token, email });
+}
 
 async function handle(req) {
   const url = new URL(req.url);

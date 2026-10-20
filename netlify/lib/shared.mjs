@@ -52,7 +52,7 @@ const CMS = {
 export const COLLECTIONS = Object.keys(CMS);
 
 // Indexes + first-run seeding. Runs once per database (tracked in _meta), and is idempotent if two cold starts race.
-const SCHEMA_VERSION = 3;
+const SCHEMA_VERSION = 4;
 async function setup(db) {
   const meta = db.collection('_meta');
   if ((await meta.findOne({ _id: 'schema' }))?.version >= SCHEMA_VERSION) return;
@@ -67,7 +67,9 @@ async function setup(db) {
     ]),
     db.collection('submissions').createIndex({ 'verification.status': 1 }),
     // Applicant accounts: one per mobile number.
-    db.collection('users').createIndex({ phone: 1 }, { unique: true })
+    db.collection('users').createIndex({ phone: 1 }, { unique: true }),
+    // Admin accounts: one per email (created with scripts/create-admin.mjs).
+    db.collection('admin_users').createIndex({ email: 1 }, { unique: true })
   ]);
   for (const { coll, seed } of Object.values(CMS)) {
     const c = db.collection(coll);
@@ -139,11 +141,16 @@ export async function deleteFile(filename) {
 export const json = (status, body, headers = {}) =>
   new Response(JSON.stringify(body), { status, headers: { 'Content-Type': 'application/json; charset=utf-8', 'Cache-Control': 'no-store', ...headers } });
 
-// Admin auth: the dashboard sends "Authorization: Bearer <ADMIN_PASSWORD>" over HTTPS.
+// Admin auth. The dashboard sends "Authorization: Bearer <token>" over HTTPS, where <token> is either:
+//   • an admin session token from POST /api/admin/login (payload { admin: true }), or
+//   • the raw ADMIN_PASSWORD (bootstrap/master access, so you're never locked out).
 export function isAdmin(req) {
-  const expected = process.env.ADMIN_PASSWORD;
-  if (!expected) return false; // refuse all admin access until a password is configured
   const got = (req.headers.get('authorization') || '').replace(/^Bearer\s+/i, '');
+  if (!got) return false;
+  const session = verifyToken(got);
+  if (session && session.admin === true) return true;
+  const expected = process.env.ADMIN_PASSWORD;
+  if (!expected) return false; // no env password set → only valid session tokens work
   const a = Buffer.from(got), b = Buffer.from(expected);
   return a.length === b.length && timingSafeEqual(a, b);
 }
